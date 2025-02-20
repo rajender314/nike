@@ -1,0 +1,21 @@
+export { default as asset1 } from './asset-1.png'
+export { default as asset2 } from './asset-2.png'
+export { default as asset3 } from './asset-3.png'
+export { default as asset4 } from './asset-4.png'
+export { default as asset5 } from './asset-5.png'
+export { default as asset6 } from './asset-6.png'
+export { default as asset7 } from './asset-7.png'
+export { default as asset8 } from './asset-8.png'
+export { default as asset9 } from './asset-9.png'
+export { default as asset10 } from './asset-10.png'
+
+export { default as layer3d } from './layer-3d.png'
+export { default as layerShadow } from './layer-shadow.png'
+
+export { default as nikeLogo } from './nike-logo.png'
+export { default as nikeLogoOutline } from './nike-logo-outline.png'
+export { default as nikeLogoGlitter } from './nike-logo-glitter.png'
+
+export { default as jordanLogo } from './jordan-logo.png'
+export { default as jordanLogoOutline } from './jordan-logo-outline.png'
+export { default as jordanLogoGlitter } from './jordan-logo-glitter.png'
